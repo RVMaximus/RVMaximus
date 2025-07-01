@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Raviraja
 
-<!--
-**RVMaximus/RVMaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 WebXR Developer | 💊 Healthcare XR Specialist | 🕹️ Multiuser Experience Builder
 
-Here are some ideas to get you started:
+I'm a passionate immersive web developer building advanced **VR experiences** using **React**, **Babylon.js**, and **Colyseus**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At **Brahmarsive**, I'm focused on revolutionizing medical education through:
+- 🧠 Virtual **dissection** platforms
+- 🩺 **Digital cadaver** learning experiences
+- 🧬 Multiuser **VR simulations** for collaborative medical training
+
+---
+
+### 🛠 Tech Stack
+
+- **Frontend**: React, TypeScript, React-Bootstrap, Redux
+- **3D / XR**: Babylon.js, WebXR
+- **Multiplayer**: Colyseus Server, State Syncing, Room Management
+- **DevOps**: Azure, Vercel, CI/CD
+
+---
+
+### 🚀 Projects I'm Proud Of
+
+- **Virtual Dissection Engine** – Realistic, dissection immersive experiences in the browser
+- **Multiplayer Digital Cadaver** – XR experience for collaborative medical training
+- **Immersive Portfolio** – Built using React + Babylon.js, WebXR-ready
+
+---
+
+### 📫 Let's Connect
+
+- Portfolio: https://devrv.vercel.app/
+- GitHub: https://github.com/RVMaximus
+- LinkedIn: https://www.linkedin.com/in/raviraja-r-5ba12b228/
+
+---
+
+> _“Transforming ideas into Immersive Virtual Realities”_
