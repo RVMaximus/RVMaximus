@@ -30,6 +30,7 @@ At **Brahmarsive**, I'm focused on revolutionizing medical education through:
 
 ### 📫 Let's Connect
 
+- contact - ravivasanth1996@gmail.com
 - Portfolio: https://devrv.vercel.app/
 - GitHub: https://github.com/RVMaximus
 - LinkedIn: https://www.linkedin.com/in/raviraja-r-5ba12b228/
